@@ -1,5 +1,7 @@
-# Hey 👋🏽! I am *__Juan Emilio Elizondo__*
+<h1 font-size="30px">Hey! I am Juan Emilio Elizondo 👨🏻‍💻</h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 ## 👨🏻‍💻 *__About me__*
+
 🔘 I am 20 years old.
 
 🔘 I am a **PERN** full-stack developer.
@@ -7,10 +9,17 @@
 🔘 I have studied in **Digital House** and **HENRY Bootcamp**.
 
 🔘 Passionate for coding and excited about contiuous learning.
+<br>
+<br>
+<br>
 
 
 ## 🚀 *__What is my current goal?__*
 In this moment, I am looking for my first job opportunity to keep improving my skills and growing in this industry.
+<br>
+<br>
+<br>
+
 
 
 
@@ -46,6 +55,9 @@ In this moment, I am looking for my first job opportunity to keep improving my s
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a>
 </p>
+<br>
+<br>
+<br>
 
 ## 📚 *__What am I learning?__*
 ◻**Next.JS**
@@ -61,6 +73,9 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
+<br>
+<br>
 
 
 ## 📩 *__Do you want to talk?__*
