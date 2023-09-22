@@ -9,7 +9,7 @@
 
 🔘 I am a **PERN** full-stack developer.
 
-🔘 I have studied in **Digital House** and **HENRY Bootcamp**.
+🔘 I studied in **Digital House** and **HENRY Bootcamp**.
 
 🔘 Passionate for coding and excited about contiuous learning.
 <br>
