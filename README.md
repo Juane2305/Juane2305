@@ -32,11 +32,11 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 <br>
 ◻ Backend » NodeJS, ExpressJS, Sequelize
 <br>
-◻ Base de datos » MySQL/Workbench, PostgreSQL.
+◻ Database » MySQL/Workbench, PostgreSQL.
 <br>
-◻ Control de Versiones » Git, GitHub.
+◻ Version control » Git, GitHub.
 <br>
-◻ Diseño » Material UI, UI/UX Developer, Figma.
+◻ Design » Material UI, UI/UX Developer, Figma.
 <br>
 <br>
 
