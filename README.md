@@ -39,6 +39,7 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 ◻**Diseño** » Material UI, UI/UX Developer, Figma.
 <br>
 <br>
+
 **Links:**
 
 <p align="center"> 
