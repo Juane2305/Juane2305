@@ -30,13 +30,13 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 <br>
 ◻**Frontend** » React, Redux, Styled-Component, CSS Modules.
 <br>
-◻**Backend** » NodeJS, ExpressJS, Sequelize
+◻ Backend » NodeJS, ExpressJS, Sequelize
 <br>
-◻**Base de datos** » MySQL/Workbench, PostgreSQL.
+◻ Base de datos » MySQL/Workbench, PostgreSQL.
 <br>
-◻**Control de Versiones** » Git, GitHub.
+◻ Control de Versiones » Git, GitHub.
 <br>
-◻**Diseño** » Material UI, UI/UX Developer, Figma.
+◻ Diseño » Material UI, UI/UX Developer, Figma.
 <br>
 <br>
 
