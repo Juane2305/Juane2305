@@ -28,7 +28,7 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 
 ## 💻 *__Technologies__*
 <br>
-◻ Frontend » React, Redux, Styled-Component, CSS Modules.
+◻ Frontend » React, Redux, Styled-Component, CSS Modules, Tailwind CSS.
 <br>
 ◻ Backend » NodeJS, ExpressJS, Sequelize
 <br>
@@ -66,8 +66,6 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 ◻**Next.JS**
 <br>
 ◻**React Native**
-<br>
-◻**Tailwind CSS**
 <br>
 ◻**TypeScript**
 <br>
