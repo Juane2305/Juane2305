@@ -5,9 +5,9 @@
 
 ## 👨🏻‍💻 *__About me__*
 
-🔘 I am 20 years old.
+🔘 I am 21 years old.
 
-🔘 I am a **PERN** full-stack developer.
+🔘 I am a full-stack developer.
 
 🔘 I studied in **Digital House** and **HENRY Bootcamp**.
 
@@ -30,7 +30,7 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 <br>
 ◻ Frontend » React, Redux, Styled-Component, CSS Modules, Tailwind CSS.
 <br>
-◻ Backend » NodeJS, ExpressJS, Sequelize
+◻ Backend » Java, Spring, NodeJS, ExpressJS, Sequelize
 <br>
 ◻ Database » MySQL/Workbench, PostgreSQL.
 <br>
