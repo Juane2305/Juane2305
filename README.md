@@ -9,7 +9,7 @@
 
 🔘 I am a full-stack developer.
 
-🔘 I studied in **Digital House** and **HENRY Bootcamp**.
+🔘 I studied in **Digital House** and **HENRY**.
 
 🔘 Passionate for coding and excited about contiuous learning.
 <br>
