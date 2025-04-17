@@ -63,10 +63,6 @@ In this moment, I am looking for my first job opportunity to keep improving my s
 <br>
 
 ## 📚 *__What am I learning?__*
-◻**Next.JS**
-<br>
-◻**React Native**
-<br>
 ◻**TypeScript**
 <br>
 <p align="center">
