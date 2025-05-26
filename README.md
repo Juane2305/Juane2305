@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 *__About me__*
 
-🔘 I am 21 years old.
+🔘 I am 22 years old.
 
 🔘 I am a full-stack developer.
 
