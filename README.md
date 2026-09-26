@@ -1,5 +1,5 @@
 
-<h1 font-size="30px">Hey! I am Juan Emilio Elizondo 👨🏻‍💻</h1>
+<h1 font-size="30px">Hey! I am Juane Elizondo 👨🏻‍💻</h1>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
